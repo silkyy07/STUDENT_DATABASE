@@ -22,7 +22,5 @@ You can run this project in:
 - [sqliteonline.com](https://sqliteonline.com)
 - MySQL or any SQL environment
 
-## ✅ Status
-
-Project: Completed ✅  
-Author: Silky Jha
+## ✅ Author
+Silky Jha
