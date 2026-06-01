@@ -22,8 +22,6 @@ You can run this project in:
 - [sqliteonline.com](https://sqliteonline.com)
 - MySQL or any SQL environment
 
-Just copy the SQL queries from the `student_db_project.sql` file and paste them into your SQL environment.
-
 ## ✅ Status
 
 Project: Completed ✅  
